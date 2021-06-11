@@ -4,7 +4,7 @@ export default class TempratureConverter extends React.Component{
         super(props)
         this.state={
             temperature:'',
-            tempratureType:' hi',
+            tempratureType:' ',
             result:''
 
         }
